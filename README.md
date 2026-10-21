@@ -1,3 +1,7 @@
+---
+consumers: ["agentic-audit"]
+---
+
 # AI Agents for Beginners - A Course
 
 ![Generative AI For Beginners](./images/repo-thumbnailv2.png)
